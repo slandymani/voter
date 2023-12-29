@@ -1,0 +1,8 @@
+ethereum:
+  mnemonic: ""
+  rpc: ""
+  addresses_number: ""
+  start_number: ""
+  vault: ""
+  constitution_voting: ""
+  proposal_id: ""
